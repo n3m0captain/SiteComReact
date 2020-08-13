@@ -1,0 +1,13 @@
+aside.logo {
+
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+aside.logo img {
+    
+    padding: 0px 25px;
+    width: 95%;
+}
