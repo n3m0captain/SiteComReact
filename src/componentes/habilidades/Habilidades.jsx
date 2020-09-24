@@ -12,7 +12,7 @@ export default class Habilidades extends Component {
             <Main {...headerProps}>
             Habilidades do usuario Nemo
             </Main>
-             <Main {...headerProps}>
+             <p>
 Java
 Hibernate
 C#
@@ -30,7 +30,7 @@ Administração de Redes e sistemas Windows e Linux
 Disigner gráfico, Corel Draw, Adobe Fhotoshop, Adobe Illustrator.
 Pacote Office
 
-            </Main>
+            </p>
         )
     }
 
