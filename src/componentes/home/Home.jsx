@@ -6,7 +6,7 @@ export default props =>
 <div className= 'display-4'>
     Bem Vindo!!!
     <hr/>
-    <img src="../assets/imgs/IMG_20181025_163710251.jpg" alt="Imagem não encontrada" />
+    <img src="src/assets/imgs/IMG_20181025_163710251.jpg" alt="Imagem não encontrada" />
     <hr/>
    <a href="https://github.com/n3m0captain/SiteComReact/blob/master/src/assets/imgs/IMG_20181025_163710251.jpg?raw=true">Nemo</a>
     <hr/>
