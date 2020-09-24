@@ -19,6 +19,7 @@ export default class Habilidades extends Component {
                     <li>Hibernate</li>
                     <li>C#</li>
                     <li>C++</li>
+                    <li>Python</li>
                     <li>Java Script</li>
                     <li>Node.js</li>
                     <li>HTML 5</li>
