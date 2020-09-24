@@ -1,6 +1,6 @@
 import React from 'react'
 import Main from '../template/Main'
-import img from '../assets/imgs'
+import Img from '../assets/imgs'
 
 export default props =>
 <Main icon="home" title="Início" subtitle="Tecnologia da Informação">
