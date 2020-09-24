@@ -10,7 +10,7 @@ export default class GitHub extends Component {
     render(){
         return (
             <Main {...headerProps}>
-                Repositório do usuario Nemo
+                https://github.com/n3m0captain/
             </Main>
         )
     }
