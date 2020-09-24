@@ -6,6 +6,7 @@ export default props =>
 <div className= 'display-4'>
     Bem Vindo!!!
     <hr/>
+    <img src="src/assets/imgs/IMG_20181025_163710251.jpg" alt="imagem não encontrada!!!" />
     <p className="mb-0">
         Pagína desenvolvida com React.
     </p>
