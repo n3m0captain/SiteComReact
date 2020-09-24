@@ -11,9 +11,7 @@ export default class Habilidades extends Component {
         return (
             <Main {...headerProps}>
             Habilidades do usuario Nemo
-                <div className= 'display-4'>
-                    </hr>
-                      <p>
+                <p>
 Java
 Ruby on Rails
 Hibernate
@@ -33,7 +31,7 @@ Disigner gráfico, Corel Draw, Adobe Fhotoshop, Adobe Illustrator.
 Pacote Office
 
                      </p>
-                </div>
+              
             </Main>
 
         )
