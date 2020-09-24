@@ -10,7 +10,7 @@ export default class GitHub extends Component {
     render(){
         return (
             <Main {...headerProps}>
-                https://github.com/n3m0captain/
+                 <a href="https://github.com/n3m0captain">Repositório do usuário Nemo</a>
             </Main>
         )
     }
