@@ -12,6 +12,25 @@ export default class Habilidades extends Component {
             <Main {...headerProps}>
             Habilidades do usuario Nemo
             </Main>
+             <Main {...headerProps}>
+Java
+Hibernate
+C#
+C++
+Java Script
+Node.js
+HTML 5
+CSS
+React
+Bootstrap
+Docker
+MongoDB
+MySQL
+Administração de Redes e sistemas Windows e Linux
+Disigner gráfico, Corel Draw, Adobe Fhotoshop, Adobe Illustrator.
+Pacote Office
+
+            </Main>
         )
     }
 
