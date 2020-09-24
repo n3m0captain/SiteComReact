@@ -10,8 +10,10 @@ export default class Habilidades extends Component {
     render(){
         return (
             <Main {...headerProps}>
+                <div>
                 <h3> Habilidades do usuario Nemo</h3>
-                <ol>
+                </div>
+                <ul>
                     <li>Java</li>            
                     <li>Ruby on Rails</li>
                     <li>Hibernate</li>
@@ -30,7 +32,7 @@ export default class Habilidades extends Component {
                     <li>Disigner gráfico, Corel Draw, Adobe Fhotoshop, Adobe Illustrator.</li>
                     <li>Pacote Office</li>
                     <li>Inglês intermediário</li>
-                </ol>
+                </ul>
             
             </Main>
 
