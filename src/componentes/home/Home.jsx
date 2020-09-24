@@ -1,10 +1,13 @@
 import React from 'react'
 import Main from '../template/Main'
+import img from '../assets/imgs'
 
 export default props =>
 <Main icon="home" title="Início" subtitle="Tecnologia da Informação">
 <div className= 'display-4'>
     Bem Vindo!!!
+    <hr/>
+    <img src="IMG_20181025_163710251.jpg" alt="Imagem não encontrada" />
     <hr/>
    <a href="https://github.com/n3m0captain/SiteComReact/blob/master/src/assets/imgs/IMG_20181025_163710251.jpg?raw=true">Nemo</a>
     <hr/>
