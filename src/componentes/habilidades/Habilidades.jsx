@@ -10,30 +10,28 @@ export default class Habilidades extends Component {
     render(){
         return (
             <Main {...headerProps}>
-            Habilidades do usuario Nemo
-                <p className="mb-0">
-Java
-                </p>
-                <p>
-Ruby on Rails
-Hibernate
-C#
-C++
-Java Script
-Node.js
-HTML 5
-CSS
-React
-Bootstrap
-Docker
-MongoDB
-MySQL
-Administração de Redes e sistemas Windows e Linux
-Disigner gráfico, Corel Draw, Adobe Fhotoshop, Adobe Illustrator.
-Pacote Office
-
-                     </p>
-              
+                <h3> Habilidades do usuario Nemo</h3>
+                <ol>
+                    <li>Java</li>            
+                    <li>Ruby on Rails</li>
+                    <li>Hibernate</li>
+                    <li>C#</li>
+                    <li>C++</li>
+                    <li>Java Script</li>
+                    <li>Node.js</li>
+                    <li>HTML 5</li>
+                    <li>CSS</li>
+                    <li>React</li>
+                    <li>Bootstrap</li>
+                    <li>Docker</li>
+                    <li>MongoDB</li>
+                    <li>MySQL</li>
+                    <li>Administração de Redes e sistemas Windows e Linux</li>
+                    <li>Disigner gráfico, Corel Draw, Adobe Fhotoshop, Adobe Illustrator.</li>
+                    <li>Pacote Office</li>
+                    <li>Inglês intermediário</li>
+                </ol>
+            
             </Main>
 
         )
