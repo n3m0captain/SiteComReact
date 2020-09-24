@@ -11,8 +11,10 @@ export default class Habilidades extends Component {
         return (
             <Main {...headerProps}>
             Habilidades do usuario Nemo
-                <p>
+                <p className="mb-0">
 Java
+                </p>
+                <p>
 Ruby on Rails
 Hibernate
 C#
