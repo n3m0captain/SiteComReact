@@ -11,9 +11,11 @@ export default class Habilidades extends Component {
         return (
             <Main {...headerProps}>
             Habilidades do usuario Nemo
-            </Main>
-             <p>
+                <div className= 'display-4'>
+                    </hr>
+                      <p>
 Java
+Ruby on Rails
 Hibernate
 C#
 C++
@@ -30,7 +32,10 @@ Administração de Redes e sistemas Windows e Linux
 Disigner gráfico, Corel Draw, Adobe Fhotoshop, Adobe Illustrator.
 Pacote Office
 
-            </p>
+                     </p>
+                </div>
+            </Main>
+
         )
     }
 
