@@ -8,6 +8,10 @@ export default props =>
     <hr/>
       <a href="https://github.com/n3m0captain/SiteComReact/blob/master/src/assets/imgs/IMG_20181025_163710251.jpg?raw=true">Nemo</a>
     <hr/>
+    <figure>
+        <img src="assets/imgs/IMG_20181025_163710251.jpg" alt="Conteúdo não pode ser exibido">
+            <figcaption>Nemo Dev do n3m0captain.com</figcaption>
+    </figure>
     <p className="mb-0">
         Pagína desenvolvida com React.
     </p>
