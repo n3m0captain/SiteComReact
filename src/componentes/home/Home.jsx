@@ -3,8 +3,10 @@ import Main from '../template/Main'
 
 export default props =>
 <Main icon="home" title="Início" subtitle="Tecnologia da Informação">
+     <div>
      <img src="../../assets/imgs/
-IMG_20181025_163710251.jpg " alt="Conteúdo não pode ser exibido" width="500" height="600"> 
+IMG_20181025_163710251.jpg" alt="Conteúdo não pode ser exibido" width="500" height="600"> 
+          </div>
 <div className= 'display-4'>
     Bem Vindo!!!
     <hr/>
