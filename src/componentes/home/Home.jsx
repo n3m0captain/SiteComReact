@@ -6,10 +6,10 @@ export default props =>
 <div className= 'display-4'>
     Bem Vindo!!!
     <hr/>
-      <a href="https://github.com/n3m0captain/SiteComReact/blob/master/src/assets/imgs/IMG_20181025_163710251.jpg?raw=true">Nemo DEV do n3m0capatain</a>
+      <a href="https://github.com/n3m0captain/SiteComReact/blob/master/src/assets/imgs/IMG_20181025_163710251.jpg?raw=true">Nemo Dev do n3m0captain</a>
     <hr/>
         
-    <iframe src="../../assets/imgs/IMG_20181025_163710251.jpg"></iframe> 
+    <iframe src="../assets/imgs/IMG_20181025_163710251.jpg"></iframe> 
           
     <p className="mb-0">
         Pagína desenvolvida com React.
