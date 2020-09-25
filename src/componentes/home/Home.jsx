@@ -18,5 +18,5 @@ export default props =>
     </p>
 
 </div>
-<img src="IMG_20181025_163710251.jpg" alt="Conteúdo não pode ser exibido" width="500" height="600"> 
+
 </Main>
