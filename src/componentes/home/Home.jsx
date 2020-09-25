@@ -9,7 +9,7 @@ export default props =>
       <a href="https://github.com/n3m0captain/SiteComReact/blob/master/src/assets/imgs/IMG_20181025_163710251.jpg?raw=true">Nemo DEV do n3m0capatain</a>
     <hr/>
         
-        <--!<img src="../../assets/imgs/IMG_20181025_163710251.jpg" alt="Conteúdo não pode ser exibido">-->
+    <iframe src="../../assets/imgs/IMG_20181025_163710251.jpg"></iframe> 
           
     <p className="mb-0">
         Pagína desenvolvida com React.
